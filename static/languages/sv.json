@@ -1,13 +1,10 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många européer ägnar sig åt fysiska aktiviteter som ett sätt att varva ner?",
+  "subtitle": "Omkring fyra av tio européer idrottar eller utövar fysisk aktivitet för att koppla av. Detta gäller särskilt i Cypern (67 %), Slovenien (58 %), Nederländerna (56 %) och Frankrike (50 %).",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurobarometer 525 – Idrott och fysisk aktivitet",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
