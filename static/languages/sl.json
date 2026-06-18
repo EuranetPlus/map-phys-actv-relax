@@ -1,13 +1,10 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko Evropejcev se ukvarja s telesno dejavnostjo kot načinom sprostitve?",
+  "subtitle": "Približno štirje od desetih Evropejcev se za sprostitev ukvarjajo s športom ali telesno dejavnostjo. To še posebej velja za Ciper (67 %), Slovenijo (58 %), Nizozemsko (56 %) in Francijo (50 %).",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometer 525 – Šport in telesna dejavnost",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
