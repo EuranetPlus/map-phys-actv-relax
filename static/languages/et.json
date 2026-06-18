@@ -1,13 +1,10 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui paljud eurooplased tegelevad füüsilise tegevusega lõõgastumise viisina?",
+  "subtitle": "Umbes neli kümnest eurooplasest tegeleb lõõgastumiseks spordi või füüsilise tegevusega. See kehtib eriti Küprose (67%), Sloveenia (58%), Hollandi (56%) ja Prantsusmaa (50%) kohta.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobaromeeter 525 – Sport ja kehaline aktiivsus",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
