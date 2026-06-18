@@ -1,13 +1,10 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz eiropiešu nodarbojas ar fiziskām aktivitātēm kā veidu, kā atpūsties?",
+  "subtitle": "Aptuveni četri no desmit eiropiešiem nodarbojas ar sportu vai fiziskām aktivitātēm, lai atpūstos. Tas jo īpaši attiecas uz Kipru (67 %), Slovēniju (58 %), Nīderlandi (56 %) un Franciju (50 %).",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eirobarometrs 525 — sports un fiziskās aktivitātes",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
