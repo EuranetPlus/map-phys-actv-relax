@@ -1,13 +1,10 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ilu Europejczyków uprawia aktywność fizyczną jako sposób na relaks?",
+  "subtitle": "Około czterech na dziesięciu Europejczyków uprawia sport lub aktywność fizyczną w celu relaksu. Dotyczy to szczególnie Cypru (67%), Słowenii (58%), Holandii (56%) i Francji (50%).",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurobarometr 525 – Sport i aktywność fizyczna",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
