@@ -1,13 +1,10 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How many Europeans are into physical activities as a way to unwind?",
+  "subtitle": "Around four in ten Europeans do sports or physical activities to relax. This is especially true in Cyprus (67%), Slovenia (58%), the Netherlands (56%) and France (50%).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometer 525 – Sport and Physical Activity",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
