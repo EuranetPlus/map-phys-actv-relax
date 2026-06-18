@@ -1,13 +1,10 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik Evropanů se věnuje fyzické aktivitě jako způsobu relaxace?",
+  "subtitle": "Přibližně čtyři z deseti Evropanů se věnují sportu nebo fyzickým aktivitám pro relaxaci. To platí zejména pro Kypr (67 %), Slovinsko (58 %), Nizozemsko (56 %) a Francii (50 %).",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometr 525 – Sport a fyzická aktivita",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
